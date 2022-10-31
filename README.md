@@ -1,2 +1,2 @@
-# kuku_demo
-A simple app to showcase how fragments are used in java-assignment
+# kukuapp
+#Trading and learning platform for poultry
